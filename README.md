@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,100:FF66CC&height=175&section=header&text=Robin%20Sanssi&fontSize=25&fontAlign=30&fontColor=ffffff)
-<img src="https://github.com/robin-sanssi/robin-sanssi/blob/main/IMG_7218.jpeg?raw=true" width="130" align="right">
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,40:FFA3B6,60:FF8C42,80:3A506B,100:2F3E56&height=175&section=header&text=Robin%20Sanssi&fontSize=25&fontAlign=20&fontColor=2F3E56)
+<img src="https://github.com/robin-sanssi/robin-sanssi/blob/main/IMG_7218.jpeg?raw=true" width="130" align="right">  
+   
 # 👋 Hi, I'm Robin Sanssi!  
 
 💻 **Full-stack developer in the making** | Passionate about problem-solving and clean code.  
@@ -17,15 +17,16 @@
 - **Tools:** Git, Jira, API Development  
 
 ---
+<!--
 
 ## 🚀 Featured Projects  
-<!--
+
 🔹 **[Eshop Inventory System](https://github.com/robin-sanssi/eshop-inventory)** – Full-stack inventory management app with MySQL, Node.js, and Express.  
 🔹 **[Hangman Game](https://github.com/robin-sanssi/hangman-game)** – A modular JavaScript game built with Node.js and Express.js.  
 🔹 **[CO2 Emission Tracker](https://github.com/robin-sanssi/co2-tracker)** – A data visualization project using Fetch API, JSON, and sessionStorage.  
 
---->
 ---
+--->
 
 ## 📫 Let's Connect  
 📧 **Email:** [robin.sanssi@icloud.com](mailto:robin.sanssi@icloud.com)  
