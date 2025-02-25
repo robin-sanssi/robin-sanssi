@@ -22,9 +22,7 @@
 
 ## 🚀 Featured Projects  
 
-🔹 **[Eshop Inventory System](https://github.com/robin-sanssi/eshop-inventory)** – Full-stack inventory management app with MySQL, Node.js, and Express.  
-🔹 **[Hangman Game](https://github.com/robin-sanssi/hangman-game)** – A modular JavaScript game built with Node.js and Express.js.  
-🔹 **[CO2 Emission Tracker](https://github.com/robin-sanssi/co2-tracker)** – A data visualization project using Fetch API, JSON, and sessionStorage.  
+Coming soon...
 
 ---
 --->
@@ -38,8 +36,3 @@
   
 ## 📸 Who am I?
 <img src="https://github.com/robin-sanssi/robin-sanssi/blob/main/IMG_7218.jpeg?raw=true" width="120">
-
-<!---
-robin-sanssi/robin-sanssi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
